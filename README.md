@@ -6,7 +6,12 @@ Nodejs, Js
 
 File Directory && Files
 ====================== 
-Root = app
-Root = spec
+Root = app && /app.js 
+=====================
+Root = spec && /reverseString-spec.js
+================================
 Root = package.json
+=================
 Root = README.md
+===============
+
